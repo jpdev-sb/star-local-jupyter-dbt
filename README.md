@@ -121,3 +121,10 @@ You should see something like this:
 ```
 
 Go back to your Jupyter notebook, and run the last cell.
+
+# Clean-up
+
+To remove the stack and all the containers:
+```
+docker stack rm star-jupyter
+```
