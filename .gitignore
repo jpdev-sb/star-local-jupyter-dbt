@@ -1,0 +1,12 @@
+venv/
+.idea/
+work/spark-warehouse/
+work/.ipynb_checkpoints/
+work/output/
+work/.empty/
+work/.env
+**/.DS_Store
+hive-metastore/
+dbt/logs/
+**/.venv
+**/.user.yml

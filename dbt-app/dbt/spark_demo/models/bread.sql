@@ -1,0 +1,1 @@
+SELECT * FROM spark_demo.bakery_transactions t WHERE t.item = 'Bread'
